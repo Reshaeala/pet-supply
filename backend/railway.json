@@ -1,9 +1,9 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "buildCommand": "npm --prefix pet-supply-app/backend ci"
+    "buildCommand": "npm ci"
   },
   "deploy": {
-    "startCommand": "npm --prefix pet-supply-app/backend start"
+    "startCommand": "npm start"
   }
 }
