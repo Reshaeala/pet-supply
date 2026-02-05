@@ -1,5 +1,5 @@
 [build]
-base = "pet-supply-app/frontend"
+base = "."
 command = "npm run build"
 publish = "dist"
 
